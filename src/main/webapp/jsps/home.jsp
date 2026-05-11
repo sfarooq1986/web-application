@@ -129,7 +129,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2026 [College GFEC].... All rights reserved. Designed by Your farooq.</p>
+        <p>&copy; 2026 [College Name].... All rights reserved. Designed by Your farooq.</p>
     </footer>
 
 </body>
